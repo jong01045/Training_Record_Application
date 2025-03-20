@@ -22,7 +22,7 @@ The primary objective is to extend the provided skeleton code and implement the 
 ## Files and Structure
 
 ### Provided Files
-- `server.py`: The main backend code to be extended.
+- `Test Suite\server.py`: The main backend code to be extended.
 - `pages/`: Contains pre-built HTML pages for the frontend. **Do not modify**.
   - `index.html`: Main dashboard for upcoming training classes.
   - `skills.html`: Displays user's skills.
